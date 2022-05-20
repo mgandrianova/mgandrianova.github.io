@@ -5,12 +5,43 @@
     <link>https://example.com/category/demo/</link>
       <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
       <link>https://example.com/category/demo/</link>
     </image>
+    
+    <item>
+      <title>Оформление отчёта.</title>
+      <link>https://example.com/post/getting-started/post-6/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/post-6/</guid>
+      <description>&lt;h2 id=&#34;что-такое-отчёт&#34;&gt;Что такое отчёт?&lt;/h2&gt;
+&lt;p&gt;Отчет о лабораторной работе пишется по итогам выполнения задания, в рамках которого студент получает практические навыки и находит применение своим теоретическим знаниям. По своей структуре отчет не сильно отличается от других видов научных работ.&lt;/p&gt;
+&lt;h2 id=&#34;как-оформлять-отчёт&#34;&gt;Как оформлять отчёт?&lt;/h2&gt;
+&lt;p&gt;Содержание отчёта к нашим лабораторным работам по операционным системам:
+1). Титульный лист с указанием номера лабораторной работы и ФИО студента.
+2). Формулировка цели работы.
+3). Описание результатов выполнения задания:
+– скриншоты (снимки экрана), фиксирующие выполнение лабораторной работы;
+– листинги (исходный код) программ (если они есть);
+– результаты выполнения программ (текст или снимок экрана в зависимости от
+задания).
+4). Выводы, согласованные с целью работы.
+5). Ответы на контрольные вопросы.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по прошедшей неделе(16.05.2022-20.05.2022)</title>
+      <link>https://example.com/post/getting-started/post-5-week-16.05-20.05/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/post-5-week-16.05-20.05/</guid>
+      <description>&lt;h2 id=&#34;прошедшая-неделя&#34;&gt;Прошедшая неделя&lt;/h2&gt;
+&lt;p&gt;На текущей неделе я ходила на очные пары английского,математической логики(была контрольная),математического анализа(тоже была контрольная). В свободное время я выполняла лабораторные работы № 9 и № 10 по операционным системам.Завтра меня ожидает поездка в Мордовию к двоюродной сестре.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по прошедшей неделе(09.05.2022-14.05.2022)</title>
