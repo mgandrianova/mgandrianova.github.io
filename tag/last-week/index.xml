@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Demo | Academic</title>
-    <link>https://example.com/category/demo/</link>
-      <atom:link href="https://example.com/category/demo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Demo</description>
+    <title>last week | Academic</title>
+    <link>https://example.com/tag/last-week/</link>
+      <atom:link href="https://example.com/tag/last-week/index.xml" rel="self" type="application/rss+xml" />
+    <description>last week</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Demo</title>
-      <link>https://example.com/category/demo/</link>
+      <title>last week</title>
+      <link>https://example.com/tag/last-week/</link>
     </image>
     
     <item>
@@ -19,18 +19,6 @@
       <guid>https://example.com/post/getting-started/post-3/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;В начале текущей недели я отдыхала, так как в понедельник и во вторник были выходными в честь праздника 9 мая. Затем я выполняла лабораторные работы по операционным системам,ходила на очные пары, в свободное время читала книгу.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Язык разметки Markdown.</title>
-      <link>https://example.com/post/getting-started/post-4/</link>
-      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/post-4/</guid>
-      <description>&lt;h2 id=&#34;что-такое-язык-разметки-markdown&#34;&gt;Что такое язык разметки Markdown?&lt;/h2&gt;
-&lt;p&gt;Markdown (произносится маркда́ун) — облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемости человеком, и пригодный для машинного преобразования в языки для продвинутых публикаций (HTML, Rich Text и других).&lt;/p&gt;
-&lt;h2 id=&#34;история&#34;&gt;История&lt;/h2&gt;
-&lt;p&gt;Первоначально создан в 2004 году Джоном Грубером и Аароном Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по разметке текста в электронных письмах. Реализации языка Markdown преобразуют текст в формате Markdown в валидный, правильно построенный XHTML и заменяют левые угловые скобки («&amp;lt;») и амперсанды («&amp;amp;») на соответствующие коды сущностей. Первой реализацией Markdown стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков. Реализация на Perl распространяется по лицензии типа BSD. Реализации Markdown на различных языках программирования включены (или доступны в качестве плагина) во многие системы управления содержимым.&lt;/p&gt;
 </description>
     </item>
     
