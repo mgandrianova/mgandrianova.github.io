@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,75 +13,163 @@
     </image>
     
     <item>
-      <title>Оформление отчёта.</title>
-      <link>https://example.com/post/getting-started/post-6/</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/post-6/</guid>
-      <description>&lt;h2 id=&#34;что-такое-отчёт&#34;&gt;Что такое отчёт?&lt;/h2&gt;
-&lt;p&gt;Отчет о лабораторной работе пишется по итогам выполнения задания, в рамках которого студент получает практические навыки и находит применение своим теоретическим знаниям. По своей структуре отчет не сильно отличается от других видов научных работ.&lt;/p&gt;
-&lt;h2 id=&#34;как-оформлять-отчёт&#34;&gt;Как оформлять отчёт?&lt;/h2&gt;
-&lt;p&gt;Содержание отчёта к нашим лабораторным работам по операционным системам:
-1). Титульный лист с указанием номера лабораторной работы и ФИО студента.
-2). Формулировка цели работы.
-3). Описание результатов выполнения задания:
-– скриншоты (снимки экрана), фиксирующие выполнение лабораторной работы;
-– листинги (исходный код) программ (если они есть);
-– результаты выполнения программ (текст или снимок экрана в зависимости от задания).
-4). Выводы, согласованные с целью работы.
-5). Ответы на контрольные вопросы.&lt;/p&gt;
+      <title>Last week&#39;s post(30.05.2022-04.06.2022)</title>
+      <link>https://example.com/post/getting-started/post-9week-30.05-04.06/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/post-9week-30.05-04.06/</guid>
+      <description>&lt;h2 id=&#34;last-week&#34;&gt;Last week&lt;/h2&gt;
+&lt;p&gt;This week I went to face-to-face classes of mathematical logic, mathematical analysis. In my free time, I did labs #13 and #14 on operating systems. On Monday, May 30, I took an oral exam in English, which I passed with 14/20 marks. All day on May 31, I was preparing for the test in mathematical logic, thanks to which I got the first maximum of 30/30 points. On June 1, I was also preparing for a test, but already in mathematical analysis, I watched a lot of videos on multiple and curvilinear integrals on YouTube, the scores are not yet known. On Friday I gave a lecture on mathematical analysis, got 5/5 points, I&amp;rsquo;m glad. Today is Saturday, I completed the last laboratory work (№ 13 and № 14), now I am doing the 6th stage of an individual project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе(16.05.2022-20.05.2022)</title>
+      <title>My zodiac sign.</title>
+      <link>https://example.com/post/getting-started/post-10/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/post-10/</guid>
+      <description>&lt;h2 id=&#34;aquarius-zodiac-sign&#34;&gt;Aquarius (zodiac sign)&lt;/h2&gt;
+&lt;p&gt;Aquarius (lat. Aquarius) - the eleventh sign of the zodiac, corresponding to the sector of the ecliptic from 300 ° to 330 °, counting from the vernal equinox; permanent sign of the trine Air. Usually depicted as a male person with a jug pouring water.&lt;/p&gt;
+&lt;p&gt;In Western astrology, the Sun is considered to be in the sign of Aquarius from approximately January 20 to February 19. The sign of Aquarius should not be confused with the constellation of Aquarius, in which the Sun is located from February 16 to March 11.&lt;/p&gt;
+&lt;p&gt;The ruling planets of Aquarius are Uranus and Saturn.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages.</title>
+      <link>https://example.com/post/getting-started/post-8/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/post-8/</guid>
+      <description>&lt;h2 id=&#34;what-is-a-programming-language&#34;&gt;What is a programming language?&lt;/h2&gt;
+&lt;p&gt;A programming language is a formal language for writing computer programs. A programming language defines a set of lexical, syntactic and semantic rules that determine the appearance of the program and the actions that the performer (usually a computer) will perform under its control.&lt;/p&gt;
+&lt;p&gt;Since the creation of the first programmable machines, mankind has come up with more than eight thousand programming languages ​​(including esoteric, visual and toy ones). Every year their number increases. Some languages ​​are used only by a small number of their own developers, others become known to millions of people. Professional programmers can be proficient in several programming languages.&lt;/p&gt;
+&lt;p&gt;A programming language is intended for writing computer programs, which are a set of rules that allow a computer to perform a particular computational process, organize control of various objects, etc. A programming language differs from natural languages ​​in that it is designed to control a computer, while how natural languages ​​are used primarily for communication between people. Most programming languages ​​use special constructs to define and manipulate data structures and control the process of computation.&lt;/p&gt;
+&lt;h2 id=&#34;scientific-programming-languages&#34;&gt;Scientific programming languages&lt;/h2&gt;
+&lt;p&gt;Scientific programming is a highly oriented style of programming for scientific computing. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of scientific and interface parts, the individuality of algorithms, and the predominance of efficiency over universality.
+Scientific programming is at the heart of any modern global research. All advanced technologies - from quantum computers to space programs - would not be possible without scientific programmers who can provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of problem and the preferences of the author. Historically, the first high-level programming language is Fortran; many debugged libraries of mathematical statistics and libraries for solving differential equations are written on it, which is relevant for economics and biology, respectively.&lt;/p&gt;
+&lt;p&gt;Python has a simpler syntax, which is also suitable for programming mathematical calculations. The Python language is used for data processing in mathematics, physics, economics, biology, chemistry and can work with some other &amp;ldquo;scientific&amp;rdquo; languages: Fortran, C++, C#.&lt;/p&gt;
+&lt;p&gt;In turn, C# allows you to program on the .NET platform, adapt the program to the common language runtime (CLR), and accelerate development within the framework of operational scientific sessions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week&#39;s post(16.05.2022-20.05.2022)</title>
       <link>https://example.com/post/getting-started/post-5-week-16.05-20.05/</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/post-5-week-16.05-20.05/</guid>
-      <description>&lt;h2 id=&#34;прошедшая-неделя&#34;&gt;Прошедшая неделя&lt;/h2&gt;
-&lt;p&gt;На текущей неделе я ходила на очные пары английского,математической логики(была контрольная),математического анализа(тоже была контрольная). В свободное время я выполняла лабораторные работы № 9 и № 10 по операционным системам.Завтра меня ожидает поездка в Мордовию к двоюродной сестре.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;last-week&#34;&gt;Last week&lt;/h2&gt;
+&lt;p&gt;This week I went to face-to-face classes of English, mathematical logic (there was a control), mathematical analysis (there was also a control). In my free time, I did laboratory work No. 9 and No. 10 on operating systems. Tomorrow I will go to Mordovia to visit my cousin.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе(09.05.2022-14.05.2022)</title>
+      <title>Report design.</title>
+      <link>https://example.com/post/getting-started/post-6/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/post-6/</guid>
+      <description>&lt;h2 id=&#34;what-is-a-report&#34;&gt;What is a report?&lt;/h2&gt;
+&lt;p&gt;The report on laboratory work is written based on the results of the assignment, in which the student receives practical skills and finds application for his theoretical knowledge. In its structure, the report does not differ much from other types of scientific papers.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-format-a-report&#34;&gt;How to format a report?&lt;/h2&gt;
+&lt;p&gt;The content of the report to our laboratory work on operating systems:
+one). Title page indicating the number of laboratory work and the name of the student.
+2). Formulation of the purpose of the work.
+3). Description of the results of the task:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;screenshots (screenshots) that record the performance of laboratory work;
+– listings (source code) of programs (if any);
+– results of program execution (text or screenshot, depending on the task).
+four). Conclusions consistent with the purpose of the work.
+5). Answers to control questions.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week&#39;s post(05/09/2022-05/14/2022)</title>
       <link>https://example.com/post/getting-started/post-3/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/post-3/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;В начале текущей недели я отдыхала, так как в понедельник и во вторник были выходными в честь праздника 9 мая. Затем я выполняла лабораторные работы по операционным системам,ходила на очные пары, в свободное время читала книгу.&lt;/p&gt;
+&lt;p&gt;At the beginning of the current week, I had a rest, as Monday and Tuesday were days off in honor of the May 9th holiday. Then I did laboratory work on operating systems, went to face-to-face classes, and read a book in my free time.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Язык разметки Markdown.</title>
+      <title>Markdown language.</title>
       <link>https://example.com/post/getting-started/post-4/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/post-4/</guid>
-      <description>&lt;h2 id=&#34;что-такое-язык-разметки-markdown&#34;&gt;Что такое язык разметки Markdown?&lt;/h2&gt;
-&lt;p&gt;Markdown (произносится маркда́ун) — облегчённый язык разметки, созданный с целью обозначения форматирования в простом тексте, с максимальным сохранением его читаемости человеком, и пригодный для машинного преобразования в языки для продвинутых публикаций (HTML, Rich Text и других).&lt;/p&gt;
-&lt;h2 id=&#34;история&#34;&gt;История&lt;/h2&gt;
-&lt;p&gt;Первоначально создан в 2004 году Джоном Грубером и Аароном Шварцем. Многие идеи языка были позаимствованы из существующих соглашений по разметке текста в электронных письмах. Реализации языка Markdown преобразуют текст в формате Markdown в валидный, правильно построенный XHTML и заменяют левые угловые скобки («&amp;lt;») и амперсанды («&amp;amp;») на соответствующие коды сущностей. Первой реализацией Markdown стала написанная Грубером реализация на Perl, однако спустя некоторое время появилось множество реализаций от сторонних разработчиков. Реализация на Perl распространяется по лицензии типа BSD. Реализации Markdown на различных языках программирования включены (или доступны в качестве плагина) во многие системы управления содержимым.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;what-is-markdown-language&#34;&gt;What is Markdown language?&lt;/h2&gt;
+&lt;p&gt;Markdown (pronounced markdown) is a lightweight markup language designed to indicate formatting in plain text while maintaining human readability as much as possible, and suitable for machine conversion into advanced publishing languages ​​(HTML, Rich Text, and others).&lt;/p&gt;
+&lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
+&lt;p&gt;Originally created in 2004 by John Gruber and Aaron Schwartz. Many language ideas have been borrowed from existing text markup conventions in emails. Markdown language implementations convert Markdown text to valid, well-formed XHTML and replace left angle brackets (&amp;quot;&amp;lt;&amp;quot;) and ampersands (&amp;quot;&amp;amp;&amp;quot;) with the appropriate entity codes. The first implementation of Markdown was Gruber&amp;rsquo;s Perl implementation, but after a while, many third-party implementations appeared. The Perl implementation is distributed under a BSD type license. Implementations of Markdown in various programming languages ​​are included (or available as a plugin) in many content management systems.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе(02.05.2022-07.05.2022)</title>
+      <title>Last week&#39;s post(05/02/2022-05/07/2022)</title>
       <link>https://example.com/post/getting-started/post-1/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/post-1/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;На этой неделе я выполняла лабораторные работы по операционным системам,ходила на очные пары, в свободное время посмотрела сериал.&lt;/p&gt;
+&lt;p&gt;This week I did lab work on operating systems, went to face-to-face classes, watched a series in my free time.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями. Git.</title>
+      <title>Versioning. Git.</title>
       <link>https://example.com/post/getting-started/post-2/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/post-2/</guid>
-      <description>&lt;h2 id=&#34;что-такое-контроль-версий&#34;&gt;Что такое контроль версий?&lt;/h2&gt;
-&lt;p&gt;Контроль версий, также известный как управление исходным кодом, — это практика отслеживания изменений программного кода и управления ими. Системы контроля версий — это программные инструменты, помогающие командам разработчиков управлять изменениями в исходном коде с течением времени. В свете усложнения сред разработки они помогают командам разработчиков работать быстрее и эффективнее. Системы контроля версий наиболее полезны командам DevOps, поскольку помогают сократить время разработки и увеличить количество успешных развертываний.&lt;/p&gt;
-&lt;p&gt;Программное обеспечение контроля версий отслеживает все вносимые в код изменения в специальной базе данных. При обнаружении ошибки разработчики могут вернуться назад и выполнить сравнение с более ранними версиями кода для исправления ошибок, сводя к минимуму проблемы для всех участников команды.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;what-is-version-control&#34;&gt;What is version control?&lt;/h2&gt;
+&lt;p&gt;Version control, also known as source control, is the practice of tracking and managing changes to program code. Version control systems are software tools that help development teams manage changes to source code over time. As development environments become more complex, they help development teams work faster and more efficiently. Version control systems are most useful for DevOps teams because they help reduce development time and increase the number of successful deployments.&lt;/p&gt;
+&lt;p&gt;Version control software keeps track of all changes made to the code in a special database. When a bug is found, developers can go back and compare to earlier versions of the code to fix bugs, minimizing problems for everyone on the team.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/post/getting-started/post-7week-23.05-29.05/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/post-7week-23.05-29.05/</guid>
+      <description>&lt;h2 id=&#34;результаты-перевода&#34;&gt;Исходный текст
+&amp;mdash; title: Post po proshedshey nedele(23.05.2022-29.05.2022) subtitle: Segodnya 28 maya i vot moy post po proshedshey nedele. # Summary for listings and search engines summary: Segodnya 28 maya i vot moy post po proshedshey nedele. # Link this post with a project projects: [] # Date published date: &amp;lsquo;2022-05-28&amp;rsquo; # Date updated lastmod: &amp;lsquo;2020-05-28&amp;rsquo; # Is this an unpublished draft? draft: false # Show this page in the Featured widget? featured: false # Featured image # Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here. image: caption: &amp;rsquo;&amp;rsquo; focal_point: &amp;rsquo;&amp;rsquo; placement: 2 preview_only: false authors: - Andrianova Marina tags: - blog categories: - Demo &amp;mdash; ## Proshedshaya nedelya Na tekushchey nedele ya khodila na ochnyye pary angliyskogo,matematicheskoy logiki,matematicheskogo analiza. V svobodnoye vremya ya vypolnyala laboratornyye raboty № 11 i № 12 po operatsionnym sistemam.23 maya ya vernulas&amp;rsquo; v Moskvu iz Mordovii,gde ya vstretilas&amp;rsquo; so svoyey sem&amp;rsquo;yoy i sem&amp;rsquo;yoy dvoyurodnoy sestry.25 i 26 maya ya uchastvovala v fakul&amp;rsquo;tetskikh sorevnovaniyakh po basketbolu v smeshannykh komandakh, my(FFMiEN) zanyali 4-oye mesto.
+Ещё
+1 143 / 5 000
+Результаты перевода&lt;/h2&gt;
+&lt;p&gt;title: Last week&amp;rsquo;s post(23.05.2022-29.05.2022)
+subtitle: Today is May 28th and here is my post from last week.&lt;/p&gt;
+&lt;h1 id=&#34;summary-for-listings-and-search-engines&#34;&gt;Summary for listings and search engines&lt;/h1&gt;
+&lt;p&gt;summary: Today is May 28th and here is my post from last week.&lt;/p&gt;
+&lt;h1 id=&#34;link-this-post-with-a-project&#34;&gt;Link this post with a project&lt;/h1&gt;
+&lt;p&gt;projects: []&lt;/p&gt;
+&lt;h1 id=&#34;date-published&#34;&gt;Date published&lt;/h1&gt;
+&lt;p&gt;date: &amp;lsquo;2022-05-28&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;date-updated&#34;&gt;Date updated&lt;/h1&gt;
+&lt;p&gt;lastmod: &amp;lsquo;2020-05-28&amp;rsquo;&lt;/p&gt;
+&lt;h1 id=&#34;is-this-an-unpublished-draft&#34;&gt;Is this an unpublished draft?&lt;/h1&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;h1 id=&#34;show-this-page-in-the-featured-widget&#34;&gt;Show this page in the Featured widget?&lt;/h1&gt;
+&lt;p&gt;featured: false&lt;/p&gt;
+&lt;p&gt;#Featured image&lt;/p&gt;
+&lt;h1 id=&#34;place-an-image-named-featuredjpgpng-in-this-pages-folder-and-customize-its-options-here&#34;&gt;Place an image named &lt;code&gt;featured.jpg/png&lt;/code&gt; in this page&amp;rsquo;s folder and customize its options here.&lt;/h1&gt;
+&lt;p&gt;image:
+caption: &amp;rsquo;&amp;rsquo;
+focal_point: &amp;rsquo;&amp;rsquo;
+location: 2
+preview_only: false&lt;/p&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Andrianova Marina&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;blog&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-demo&#34;&gt;categories:
+-Demo&lt;/h2&gt;
+&lt;h2 id=&#34;last-week&#34;&gt;Last week&lt;/h2&gt;
+&lt;p&gt;This week I went to face-to-face classes in English, mathematical logic, and mathematical analysis. In my free time, I did laboratory work No. 11 and No. 12 on operating systems. On May 23, I returned to Moscow from Mordovia, where I met with my family and my cousin&amp;rsquo;s family. On May 25 and 26, I participated in faculty basketball competitions in mixed teams , we (Faculty of Physics, Mathematics and Natural Sciences) took 4th place.&lt;/p&gt;
 </description>
     </item>
     

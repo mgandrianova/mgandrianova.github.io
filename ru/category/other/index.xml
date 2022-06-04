@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Academic</title>
+    <link>https://example.com/ru/category/other/</link>
+      <atom:link href="https://example.com/ru/category/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Other</title>
+      <link>https://example.com/ru/category/other/</link>
+    </image>
+    
+    <item>
+      <title>Мой знак зодиака.</title>
+      <link>https://example.com/ru/post/getting-started/post-10/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/getting-started/post-10/</guid>
+      <description>&lt;h2 id=&#34;водолей-знак-зодиака&#34;&gt;Водолей (знак зодиака)&lt;/h2&gt;
+&lt;p&gt;Водолей (лат. Aquarius) — одиннадцатый знак зодиака, соответствующий сектору эклиптики от 300° до 330°, считая от точки весеннего равноденствия; постоянный знак тригона Воздух. Обычно изображается в виде человека мужского пола с кувшином, льющего воду.&lt;/p&gt;
+&lt;p&gt;В западной астрологии считается, что Солнце находится в знаке Водолея приблизительно с 20 января по 19 февраля. Не следует путать знак Водолея и созвездие Водолея, Солнце в котором находится с 16 февраля по 11 марта.&lt;/p&gt;
+&lt;p&gt;Управляющие планеты Водолея — Уран и Сатурн.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

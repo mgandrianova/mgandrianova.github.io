@@ -13,33 +13,33 @@
     </image>
     
     <item>
-      <title>Пост по прошедшей неделе(09.05.2022-14.05.2022)</title>
+      <title>Last week&#39;s post(05/09/2022-05/14/2022)</title>
       <link>https://example.com/post/getting-started/post-3/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/post-3/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;В начале текущей недели я отдыхала, так как в понедельник и во вторник были выходными в честь праздника 9 мая. Затем я выполняла лабораторные работы по операционным системам,ходила на очные пары, в свободное время читала книгу.&lt;/p&gt;
+&lt;p&gt;At the beginning of the current week, I had a rest, as Monday and Tuesday were days off in honor of the May 9th holiday. Then I did laboratory work on operating systems, went to face-to-face classes, and read a book in my free time.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе(02.05.2022-07.05.2022)</title>
+      <title>Last week&#39;s post(05/02/2022-05/07/2022)</title>
       <link>https://example.com/post/getting-started/post-1/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/post-1/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;На этой неделе я выполняла лабораторные работы по операционным системам,ходила на очные пары, в свободное время посмотрела сериал.&lt;/p&gt;
+&lt;p&gt;This week I did lab work on operating systems, went to face-to-face classes, watched a series in my free time.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями. Git.</title>
+      <title>Versioning. Git.</title>
       <link>https://example.com/post/getting-started/post-2/</link>
       <pubDate>Sat, 07 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/getting-started/post-2/</guid>
-      <description>&lt;h2 id=&#34;что-такое-контроль-версий&#34;&gt;Что такое контроль версий?&lt;/h2&gt;
-&lt;p&gt;Контроль версий, также известный как управление исходным кодом, — это практика отслеживания изменений программного кода и управления ими. Системы контроля версий — это программные инструменты, помогающие командам разработчиков управлять изменениями в исходном коде с течением времени. В свете усложнения сред разработки они помогают командам разработчиков работать быстрее и эффективнее. Системы контроля версий наиболее полезны командам DevOps, поскольку помогают сократить время разработки и увеличить количество успешных развертываний.&lt;/p&gt;
-&lt;p&gt;Программное обеспечение контроля версий отслеживает все вносимые в код изменения в специальной базе данных. При обнаружении ошибки разработчики могут вернуться назад и выполнить сравнение с более ранними версиями кода для исправления ошибок, сводя к минимуму проблемы для всех участников команды.&lt;/p&gt;
+      <description>&lt;h2 id=&#34;what-is-version-control&#34;&gt;What is version control?&lt;/h2&gt;
+&lt;p&gt;Version control, also known as source control, is the practice of tracking and managing changes to program code. Version control systems are software tools that help development teams manage changes to source code over time. As development environments become more complex, they help development teams work faster and more efficiently. Version control systems are most useful for DevOps teams because they help reduce development time and increase the number of successful deployments.&lt;/p&gt;
+&lt;p&gt;Version control software keeps track of all changes made to the code in a special database. When a bug is found, developers can go back and compare to earlier versions of the code to fix bugs, minimizing problems for everyone on the team.&lt;/p&gt;
 </description>
     </item>
     

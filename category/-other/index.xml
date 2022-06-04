@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>-Other | Academic</title>
+    <link>https://example.com/category/-other/</link>
+      <atom:link href="https://example.com/category/-other/index.xml" rel="self" type="application/rss+xml" />
+    <description>-Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>-Other</title>
+      <link>https://example.com/category/-other/</link>
+    </image>
+    
+    <item>
+      <title>My zodiac sign.</title>
+      <link>https://example.com/post/getting-started/post-10/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/post-10/</guid>
+      <description>&lt;h2 id=&#34;aquarius-zodiac-sign&#34;&gt;Aquarius (zodiac sign)&lt;/h2&gt;
+&lt;p&gt;Aquarius (lat. Aquarius) - the eleventh sign of the zodiac, corresponding to the sector of the ecliptic from 300 ° to 330 °, counting from the vernal equinox; permanent sign of the trine Air. Usually depicted as a male person with a jug pouring water.&lt;/p&gt;
+&lt;p&gt;In Western astrology, the Sun is considered to be in the sign of Aquarius from approximately January 20 to February 19. The sign of Aquarius should not be confused with the constellation of Aquarius, in which the Sun is located from February 16 to March 11.&lt;/p&gt;
+&lt;p&gt;The ruling planets of Aquarius are Uranus and Saturn.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
